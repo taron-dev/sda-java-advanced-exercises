@@ -1,0 +1,10 @@
+rootProject.name = 'javaadvanced'
+
+include('exercise1')
+include('exercise2')
+include('exercise3')
+include('exercise4')
+include('exercise7')
+include('exercise7a')
+include('exercise8')
+include('common')
